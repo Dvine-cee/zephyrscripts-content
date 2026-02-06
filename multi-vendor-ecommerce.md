@@ -1,4 +1,4 @@
-Launch and online store in record time with our powerful, ready-to-deploy multi-vendor and single vendor E-commerce Script built for speed, flexibility, and real-world business needs. Whether you’re a developer, startup, or business owner, this script gives you everything required to run a fully functional online store—without starting from scratch.
+Launch and online store in record time with our powerful, ready-to-deploy multi-vendor and single vendor E-commerce Script built for speed, flexibility, and real-world business needs. Whether you’re a developer, startup, or business owner, this script gives you everything required to run a fully functional online store without starting from scratch.
 Designed with modern web standards, this solution is secure, scalable, and easy to customize, making it perfect for selling physical or digital products.
 
 ## 🚀 e-commerce Script – Key Features
@@ -16,10 +16,11 @@ Designed with modern web standards, this solution is secure, scalable, and easy 
 - Scalable and customizable codebase
 - Secure architecture
 - Digital & physical product support
+- Multi-vendor management support
 - Delivery System support with Logistics management
 - Installation guide & documentation included
 
-## 🛠️ Admin Key Features
+## 🛠️ Admin Features
 - Admin dashboard overview
 - Product creation, editing, and deletion
 - Category & subcategory management
@@ -35,7 +36,7 @@ Designed with modern web standards, this solution is secure, scalable, and easy 
 - Order notification system
 - Database backup & maintenance support
 
-## 👤 User Key Features
+## 👤 User Features
 - User registration and login
 - Password recovery system
 - User dashboard access
@@ -49,6 +50,14 @@ Designed with modern web standards, this solution is secure, scalable, and easy 
 - Email notifications
 - Profile and account management
 - Fully responsive user interface
+
+## Live Demo
+URL: https://demo.martvill.techvill.net
+
+Admin Login:  
+URL: https://demo.martvill.techvill.net/admin  
+username: admin@techvill.net  
+password: 123456
 
 # No bugs
 
