@@ -1,7 +1,7 @@
 Launch and online store in record time with our powerful, ready-to-deploy multi-vendor and single vendor E-commerce Script built for speed, flexibility, and real-world business needs. Whether you’re a developer, startup, or business owner, this script gives you everything required to run a fully functional online store—without starting from scratch.
 Designed with modern web standards, this solution is secure, scalable, and easy to customize, making it perfect for selling physical or digital products.
 
-## 🚀 Martvill Script – Key Features
+## 🚀 e-commerce Script – Key Features
 - Complete e-commerce system
 - Modern admin dashboard
 - Product management system
