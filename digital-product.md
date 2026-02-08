@@ -51,7 +51,8 @@ Demo: https://preview.wstacks.com/devdrops
 User: https://preview.wstacks.com/devdrops/user/login  
 Username: testuser | Password: 123456  
 
-Admin: https://preview.wstacks.com/devdrops/admin  
+Admin:  
+<p style="word-break: break-all; overflow-wrap: anywhere; max-width: 100%;">https://preview.wstacks.com/devdrops/admin</p>  
 Username: admin | Password: admin  
 
 
