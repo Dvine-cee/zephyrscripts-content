@@ -37,8 +37,8 @@ Responsive, SEO-Optimized & Easy to Launch
 - Complete Project Database
 
 ## Demo Access
-Demo: <a style="word-break:break-all; overflow-wrap:anywhere; max-width:100%;" href="https://script.viserlab.com/viserhotel/demo">https://script.viserlab.com/viserhotel/demo</a> 
+Demo: <a style="word-break: break-all; overflow-wrap: anywhere; max-width: 100%;" href="https://script.viserlab.com/viserhotel/demo">https://script.viserlab.com/viserhotel/demo</a> 
 
-Admin Panel: <a style="word-break:break-all; overflow-wrap:anywhere; max-width:100%;" href="https://script.viserlab.com/viserhotel/demo/admin">https://script.viserlab.com/viserhotel/demo/admin</a>  
+Admin Panel: <a style="word-break: break-all; overflow-wrap: anywhere; max-width: 100%;" href="https://script.viserlab.com/viserhotel/demo/admin">https://script.viserlab.com/viserhotel/demo/admin</a>  
 Username: admin  
 Password: admin  
