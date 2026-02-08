@@ -109,11 +109,11 @@ Website Link:
 https://agri-wealth.bugfinder.app  
 
 User Panel:
-https://agri-wealth.bugfinder.app/login
-Username: demouser
+https://agri-wealth.bugfinder.app/login  
+Username: demouser  
 Password: demouser
 
 Admin Panel:
-https://agri-wealth.bugfinder.app/admin
-Username: admin
+https://agri-wealth.bugfinder.app/admin  
+Username: admin  
 Password: admin
