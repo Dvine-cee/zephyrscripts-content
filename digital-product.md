@@ -48,11 +48,10 @@ Included with the Script
 ## Demo Access
 Demo: https://preview.wstacks.com/devdrops  
 
-User: https://preview.wstacks.com/devdrops/user/login  
+User: <a href="https://preview.wstacks.com/devdrops/user/login" style="word-break: break-all; overflow-wrap: anywhere; max-width: 100%;">https://preview.wstacks.com/devdrops/user/login</a>  
 Username: testuser | Password: 123456  
 
-Admin:  
-<p style="word-break: break-all; overflow-wrap: anywhere; max-width: 100%;">https://preview.wstacks.com/devdrops/admin</p>  
+Admin: <a href="https://preview.wstacks.com/devdrops/admin" style="word-break: break-all; overflow-wrap: anywhere; max-width: 100%;">https://preview.wstacks.com/devdrops/admin</a>  
 Username: admin | Password: admin  
 
 
