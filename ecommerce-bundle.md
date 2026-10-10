@@ -66,7 +66,7 @@ Explore four distinct online business models without purchasing each script sepa
 
 ### Free Lifetime-Use License
 
-The bundle includes a lifetime-use free license, allowing you to retain usage rights according to the applicable license terms.
+Each sript in the bundle includes a lifetime-use free license, allowing you to use as many times as you want on different websites,
 
 ### Instant Download
 
