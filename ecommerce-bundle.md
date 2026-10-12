@@ -102,5 +102,32 @@ Review the live demos, explore the possibilities, and get ready for your next pr
 
 ### Get the ZScripts Four-Script Bundle Now!
 
+## PHP Scripts Installation Guide — ZScripts
+
+### A. Local Installation (XAMPP)
+
+1. Download and install [XAMPP](https://www.apachefriends.org/).
+2. Start **Apache** and **MySQL** from the XAMPP Control Panel.
+3. Extract your downloaded script ZIP file.
+4. Copy the script folder into `C:\xampp\htdocs\`.
+5. Open `http://localhost/phpmyadmin/` and create a new database.
+6. Import the script's `.sql` database file if one is provided.
+7. Configure the database credentials in the script's configuration file or installer.
+8. Open `http://localhost/your-folder-name/` in your browser.
+9. Follow the installation wizard, if provided, and complete the setup.
+
+### B. Live Installation (cPanel)
+
+1. Log in to your cPanel account.
+2. Open **MySQL Database Wizard** and create a database, database user, and password. Assign the necessary privileges.
+3. Open **File Manager** and navigate to your domain's document root, usually `public_html`.
+4. Upload your script ZIP file and extract it.
+5. Ensure the application files are in the correct document root.
+6. Open **MySQL Databases** or **phpMyAdmin** and import the supplied `.sql` file if required.
+7. Configure the script with your database credentials and other required settings.
+8. Visit your domain in a browser and follow the installation wizard, if provided.
+9. Test the website and its main features, then change default admin credentials and remove or disable the installer if instructed.
+
+**Important:** Installation steps may vary between scripts. Check the specific script's documentation for PHP requirements, database setup, and additional configuration. Never share your database passwords or secret keys.
 
 
