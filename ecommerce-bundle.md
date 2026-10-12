@@ -1,12 +1,12 @@
 # ZScripts Four-Script Bundle
 
-## Four Powerful Scripts. One Complete Bundle. Just ₦5,000.
+## Four Powerful Scripts. One Complete Bundle. Just ₦2,000.
 
 Looking to build an online marketplace, launch an ecommerce store, sell digital products, or take a restaurant business online?
 
 The **ZScripts Four-Script Bundle** brings together four versatile web application scripts in one affordable package. Whether you're a developer working on client projects or an entrepreneur exploring online business opportunities, this bundle gives you four different solutions to work with.
 
-**Get all four scripts for just ₦5,000!**
+**Get all four scripts for just ₦2,000!**
 
 ---
 
@@ -92,11 +92,11 @@ Explore the demos, evaluate each script against your requirements, and choose th
 
 ---
 
-## One Bundle. Four Possibilities. ₦5,000.
+## One Bundle. Four Possibilities. ₦2,000.
 
 Why limit yourself to one type of web application when you can explore four different solutions in a single package?
 
-Get the **Martvill Multi-Vendor Ecommerce Script, OmniMart Single-Vendor Ecommerce Script, FoodHat Restaurant Ordering Script, and DevDrops Digital Products Script** together for just **₦5,000**.
+Get the **Martvill Multi-Vendor Ecommerce Script, OmniMart Single-Vendor Ecommerce Script, FoodHat Restaurant Ordering Script, and DevDrops Digital Products Script** together for just **₦2,000**.
 
 Review the live demos, explore the possibilities, and get ready for your next project.
 
