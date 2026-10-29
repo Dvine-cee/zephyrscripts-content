@@ -74,7 +74,6 @@ For the best experience, have:
 - A local development environment such as XAMPP or Laragon for applicable PHP/MySQL projects.
 - A willingness to practise, experiment, and learn.
 
-**Important:** The complete downloadable bundle is approximately 2.8 GB. Ensure you have enough internet data to download it and sufficient storage for the ZIP file, extracted resources, and development tools.
 
 ## How to Get Started
 
